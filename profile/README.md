@@ -9,7 +9,7 @@
   <a href="http://ipa-reader.xyz/?text=%CB%8Cf%C9%9Bs&voice=Mizuki">/ˌfɛs/</a>
 </h6>
 
-<h6 align="center">
+<h4 align="center">
   <a href="https://github.com/F3Sys/backend">Backend</a>
   ·
   <a href="https://github.com/F3Sys/frontend">Frontend</a>
@@ -17,7 +17,7 @@
   <a href="https://github.com/F3Sys/node">Node</a>
   ·
   <a href="https://github.com/F3Sys/documentation">Docs</a>
-</h6>
+</h4>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/F3Sys/.github/main/assets/pallete.png" width="400" />
