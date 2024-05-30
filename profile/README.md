@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/F3Sys/.github/main/assets/icon.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/F3Sys/.github/main/assets/icon-circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/F3Sys/.github/main/assets/transparent.png" height="30" width="0px"/>
 	F3S
 	<img src="https://raw.githubusercontent.com/F3Sys/.github/main/assets/transparent.png" height="30" width="0px"/>
