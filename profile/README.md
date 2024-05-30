@@ -10,9 +10,7 @@
 </h6>
 
 <h4 align="center">
-  <a href="https://github.com/F3Sys/backend">Backend</a>
-  ·
-  <a href="https://github.com/F3Sys/frontend">Frontend</a>
+  <a href="https://github.com/F3Sys/core">Core</a>
   ·
   <a href="https://github.com/F3Sys/node">Node</a>
   ·
