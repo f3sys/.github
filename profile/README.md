@@ -1,8 +1,8 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/F3Sys/.github/main/assets/icon-circle.png" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/F3Sys/.github/main/assets/transparent.png" height="30" width="0px"/>
+	<img src="https://raw.githubusercontent.com/f3sys/.github/main/assets/icon-circle.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/f3sys/.github/main/assets/transparent.png" height="30" width="0px"/>
 	F3S
-<img src="https://raw.githubusercontent.com/F3Sys/.github/main/assets/transparent.png" height="30" width="0px"/>
+<img src="https://raw.githubusercontent.com/f3sys/.github/main/assets/transparent.png" height="30" width="0px"/>
 </h3>
 
 <h6 align="center">
@@ -10,17 +10,17 @@
 </h6>
 
 <h4 align="center">
-	<a href="https://github.com/F3Sys/frontend">Frontend</a>
+	<a href="https://github.com/f3sys/frontend">Frontend</a>
 	·
-	<a href="https://github.com/F3Sys/backend">Backend</a>
+	<a href="https://github.com/f3sys/backend">Backend</a>
 	·
-	<a href="https://github.com/F3Sys/node">Node</a>
+	<a href="https://github.com/f3sys/node">Node</a>
 	·
-	<a href="https://github.com/F3Sys/documentation">Documentation</a>
+	<a href="https://github.com/f3sys/documentation">Documentation</a>
 </h4>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/F3Sys/.github/main/assets/pallete.png" width="400" />
+	<img src="https://raw.githubusercontent.com/f3sys/.github/main/assets/pallete.png" width="400" />
 </p>
 
 &nbsp;
