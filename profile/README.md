@@ -16,7 +16,7 @@
 	·
 	<a href="https://github.com/f3sys/node">Node</a>
 	·
-	<a href="https://github.com/f3sys/cli">cli</a>
+	<a href="https://github.com/f3sys/cli">CLI</a>
 </h4>
 
 <p align="center">
